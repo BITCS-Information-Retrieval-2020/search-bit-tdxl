@@ -1,5 +1,6 @@
 ### 通过pip安装
 pip install search_utils-1.0.0.tar.gz
+使用import search_utils导入
 
 #### get_suggestion()
 **请求参数：**
