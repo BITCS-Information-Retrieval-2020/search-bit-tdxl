@@ -129,9 +129,9 @@
   
 
 
-- ###pip安装包方式
+- ###pip安装包方式（pip install search_utils-1.0.0.tar.gz）
 
-		在文件目录使用 import search_utils 进行安装
+		在文件目录使用 import search_utils 进行导入
 		
 
 
